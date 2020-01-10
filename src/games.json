@@ -1,0 +1,19 @@
+[{"id": 1,
+  "name": "Are You Psychic?",
+  "description": "Can you guess a random letter that the computer is thinking of?",
+  "button": ""
+},
+
+{"id": 2,
+  "name": "Boom or Bust",
+  "description": "Match the total by clicking buttons - wisely.",
+  "button": "I'm ready to gamble!"
+},
+
+{"id": 3,
+  "name": "Clicky",
+  "description": "All you have to do is click on a bunch of images...with some conditions.",
+  "button": "Easy, right?"
+}
+
+]
