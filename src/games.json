@@ -14,6 +14,12 @@
   "name": "Clicky",
   "description": "All you have to do is click on a bunch of images...with some conditions.",
   "button": "Easy, right?"
+},
+
+{"id": 4,
+  "name": "JavaSnake",
+  "description": "The classic computer/phone game!",
+  "button": "Play"
 }
 
 ]
