@@ -2,7 +2,7 @@
   "name": "Are You Psychic?",
   "description": "Can you guess a random letter that the computer is thinking of?",
   "link": "https://jamescalingo.com/PsychicGame",
-  "button": "Test"
+  "button": "Ready to read your mind!"
 },
 
 {"id": 2,
@@ -23,7 +23,7 @@
   "name": "JavaSnake",
   "description": "The classic computer/phone game!",
   "link": "https://jamescalingo.com/JavaSnake",
-  "button": "Play"
+  "button": "Snake? SNAAAAAKE!"
 }
 
 ]
