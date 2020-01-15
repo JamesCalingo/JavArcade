@@ -24,6 +24,12 @@
   "description": "The classic computer/phone game!",
   "link": "https://jamescalingo.com/JavaSnake",
   "button": "Snake? SNAAAAAKE!"
-}
+},
 
+{"id": 99,
+  "name": "Python Pong",
+  "description": "The classic video game, made in Python. Unfortunately, I don't have a way to make this playable on browser, but you can look at the files and download them to play on your own computer.",
+  "link": "https://jamescalingo.com/JavaSnake",
+  "button": "Github"
+}
 ]
