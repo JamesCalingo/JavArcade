@@ -6,7 +6,7 @@ Consider this another portfolio page, but with the games I've programmed in Java
 
 I figured since I had quite a few of them that I should have a place to put them all in.
 
-Of course, I could put more things here (i.e. things I've worked on in other languages), but I currently don't have a way of 
+Of course, I could put more things here (i.e. things I've worked on in other languages), but I currently don't have a way of making them available online.
 
 ===
 
